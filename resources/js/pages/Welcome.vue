@@ -1,5 +1,8 @@
 <script setup lang="ts">
 import { Head, Link } from '@inertiajs/vue3';
+import {ref} from 'vue'
+
+const lets = ref('')
 </script>
 
 <template>
